@@ -1,0 +1,1 @@
+input_file = open("nums.txt", 'r')
