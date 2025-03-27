@@ -1,0 +1,33 @@
+h1, h2 {
+    text-align: center
+}
+
+div {
+    text-align: center
+}
+
+.auth {
+    text-align: right
+}
+
+h1, h2, div{
+    background:
+}
+
+h1, h2, div, hr{
+    color: white
+}
+
+br/ {
+    color: black
+}
+
+body {
+    background-image: linear-gradient(black, #3b3b3b);
+}
+
+a {
+    color: white
+}
+
+
